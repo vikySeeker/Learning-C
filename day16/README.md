@@ -3,6 +3,8 @@ Initialize an `int` array of 10 elements and then print the value of the array w
 
 Extra Credit: Use Google to find out why we get a memory address (a pointer!) as our output.
 
+**Reference**: https://youtu.be/kdgq-OwsOs8?si=VEVydcKCn8R8gCpc
+
 ## Example Output
 ```terminal_session
 $ ./assignment16                                        
